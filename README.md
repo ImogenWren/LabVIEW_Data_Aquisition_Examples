@@ -14,6 +14,9 @@ _How to accomplish basic IO Tasks with LabVIEW VI's_
 
 
 ## Writing to File
+### Including Data Aquisition
+![image](https://user-images.githubusercontent.com/97303986/194360677-766b887f-db46-428a-b47b-8f9b2afa268f.png)
+
 
 ## Reading From File
 

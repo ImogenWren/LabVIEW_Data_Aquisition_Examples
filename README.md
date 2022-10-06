@@ -1,4 +1,4 @@
-# LabVIEW Data Aquisition Example VIs
+# LabVIEW Data Aquisition - Example VIs
 Repository for LabVIEW Templates, Examples &amp; Notes
 
 #Tasks

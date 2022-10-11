@@ -45,8 +45,8 @@ _Queues are based on the first-in/first-out theory. In the Producer/Consumer des
 
 _The consumer loop will be removing data from that queue (removing data from a queue is called “dequeue”). Because queues are first-in/first-out, the data will always be analyzed by the consumer in the same order as they were placed into the queue by the producer. Figure 1 illustrates how the Producer/Consumer design pattern can be created in LabVIEW._
 
-![image](https://user-images.githubusercontent.com/97303986/195037373-165fc5dd-34dc-4019-84d6-5642431be564.png)
-[Code Snippit]("https://ni.scene7.com/is/image/ni/ProducerConsumer%20Design%20Pattern?scl=1")
+![image](https://user-images.githubusercontent.com/97303986/195037373-165fc5dd-34dc-4019-84d6-5642431be564.png) <br>
+[Code Snippit](https://ni.scene7.com/is/image/ni/ProducerConsumer%20Design%20Pattern?scl=1)
 
 
 ### Queued Message Handler (QMH)

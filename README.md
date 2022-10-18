@@ -59,5 +59,9 @@ Uses:
 - Same as QMH
 
 
+## Case Study - Counter Program with Different Topologies
+https://labviewwiki.org/wiki/Design_Pattern_Case_Study:_A_Simple_Counter
+
+
 ### Writing to TDMS Files
 https://knowledge.ni.com/KnowledgeArticleDetails?id=kA03q000000x4PcCAI&l=en-GB
